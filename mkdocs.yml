@@ -2,7 +2,7 @@ site_name: Defence Digital Service
 site_description: 'Defence Digital Service'
 site_author: 'DDS'
 docs_dir: docs/
-repo_name: 'defencedigital/'
+repo_name: 'defencedigital'
 repo_url: 'https://github.com/defencedigital/'
 nav:
     - Home: index.md
