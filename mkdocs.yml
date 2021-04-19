@@ -8,7 +8,7 @@ nav:
     - Home: index.md
 theme:
   name: material
-  logo: images/mod.png
+  logo: images/mod-24.png
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
