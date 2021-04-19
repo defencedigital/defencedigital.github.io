@@ -9,7 +9,11 @@ nav:
 theme:
   name: material
   palette:
-    scheme: slate
-
-    primary: blue grey
-    accent: deep purple
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
